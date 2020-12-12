@@ -10,5 +10,7 @@ public class Main {
 
     public static void main(String[] args)
     {
+        String[] arry = new String[]{"amir","hatef","mehran","mojtaba","mohammad","ali","davood","reza","mohsen"};
+
     }
 }
